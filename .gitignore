@@ -1,0 +1,15 @@
+/creds.json
+/debug_scraper.py
+/DEPLOY.md
+/DEPLOY_FRONTEND.md
+/docker-compose.yml
+/Dockerfile
+/main.js
+/requirements.txt
+/status_debug.html
+/sysacad_api.py
+/sysacad_core.py
+/sysacad_data.json
+/sysacad_scraper.py
+/test_api.js
+/__pycache__
